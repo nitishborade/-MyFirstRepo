@@ -6,20 +6,13 @@ I am writing from 1st copy of this repository
 Maine tere se phele changes add kiye tha
 Bhai mene add kiye hai changes phele
 Yeh change phele aana chaiye
-<<<<<<< HEAD
 Tere old changes hata yaha se
-=======
 Nahi mene phele add kiya hai
->>>>>>> 9394cda28c4a7dd29b6b383f5e9d215d4578b556
 Added old content
 Idhar bhi add kar raha hoon
 Adding new changes
 Adding new content
 Some more content
 Aur changes add kar kara hoon
-<<<<<<< HEAD
 Kuch bhi add mat kar
-=======
 Aur add karunga
-
->>>>>>> 9394cda28c4a7dd29b6b383f5e9d215d4578b556
