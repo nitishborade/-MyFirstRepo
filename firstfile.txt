@@ -1,13 +1,15 @@
 This if my first file
 I am writing to development branch
 I am writing from another copy of this repository
-I am writing from 2nd copy of this repository
+Bhai I am writing from 2nd copy of this repository
 I am writing from 1st copy of this repository
 Maine tere se phele changes add kiye tha
+Bhai mene add kiye hai changes phele
 Yeh change phele aana chaiye
+Tere old changes hata yaha se
 Added old content
 Adding new changes
 Adding new content
 Some more content
 Aur changes add kar kara hoon
-
+Kuch bhi add mat kar
